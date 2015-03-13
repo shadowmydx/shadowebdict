@@ -6,6 +6,6 @@ Just input the English word that u don't understand, and it will output result f
 
 
 U can visit this blog to get more info :)
-
+http://www.cnblogs.com/shadowmydx/p/4295598.html
 
 More details in code, plz check out :)
